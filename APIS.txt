@@ -1,0 +1,4 @@
+Signing up the user - registerUser /POST
+Sign in authentication - signIn /POST
+retrieve user information- fetchUser /GET
+update user information- updateUser /PUT
